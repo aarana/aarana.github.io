@@ -1,0 +1,34 @@
+body {
+	font:	12px/1.2 Verdana, Arial, Helvetica, sans-serif;
+	background:#ddd;
+	padding:0px;
+	margin:0px;
+	}
+	
+a {
+	text-decoration:none;
+	font-weight:bold;
+	color:#F47F24;
+	}
+
+a:visited {color:#003C7D;}
+
+h1 {
+	color:#003C7D;
+	}
+	
+pre {
+	font-size:11px;
+	color:blue;
+	}
+	
+.greek {
+	color:#999;
+	}
+	
+ol {
+	margin-right:40px;
+	}
+li {
+	margin-bottom:10px;
+	}
